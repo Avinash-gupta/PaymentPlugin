@@ -1,0 +1,20 @@
+{
+  "amount": "1",
+  "currency": "EUR",
+  "firstName": "Shweta",
+  "lastName": "Dehariya",
+  "email": "shwet.dehariya@gmail.com",
+  "phoneNumber": "8801312323",
+  "address": "Hyderabad",
+  "city": "Hyderabad",
+  "postalCode": "500075",
+  "state": "Telanagana",
+  "paymentMethod": "card",
+  "secretKey": "test",
+  "cardNumber": "4263970000005262",
+  "cardExpMonth": "03",
+  "cardExpYear": "2020",
+  "cardHolderName": "Shweta Dehariya",
+  "cardCvn": "123",
+  "developerId": ""
+}
