@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\deharish\\Source\\Repos\\globalpay\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj": {}
+    "C:\\Users\\deharish\\Source\\Repos\\PaymentPlugin\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj": {}
   },
   "projects": {
-    "C:\\Users\\deharish\\Source\\Repos\\globalpay\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj": {
+    "C:\\Users\\deharish\\Source\\Repos\\PaymentPlugin\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\deharish\\Source\\Repos\\globalpay\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj",
+        "projectUniqueName": "C:\\Users\\deharish\\Source\\Repos\\PaymentPlugin\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj",
         "projectName": "GlobalPaymentSolutions",
-        "projectPath": "C:\\Users\\deharish\\Source\\Repos\\globalpay\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj",
+        "projectPath": "C:\\Users\\deharish\\Source\\Repos\\PaymentPlugin\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\GlobalPaymentSolutions.csproj",
         "packagesPath": "C:\\Users\\deharish\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\deharish\\Source\\Repos\\globalpay\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\obj\\",
+        "outputPath": "C:\\Users\\deharish\\Source\\Repos\\PaymentPlugin\\GlobalPaymentSolutions\\GlobalPaymentSolutions\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
